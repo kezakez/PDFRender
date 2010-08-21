@@ -1,0 +1,1 @@
+PDFRender allows you to Render text in HTML tags to PDF in your browser with javascript. It uses jsPDF to construct the PDF document.
